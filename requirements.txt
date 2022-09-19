@@ -173,7 +173,6 @@ matplotlib
 matplotlib-inline 
 mccabe==0.6.1
 natsort==8.2.0
-navigator-updater==0.2.1
 nbclassic 
 nbclient 
 nbconvert 
