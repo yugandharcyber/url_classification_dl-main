@@ -393,7 +393,6 @@ xarray
 xgboost==1.6.2
 xlrd
 XlsxWriter 
-xlwings==0.24.9
 yapf 
 yarg==0.1.9
 yarl 
