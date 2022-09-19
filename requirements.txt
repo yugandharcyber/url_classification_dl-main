@@ -57,14 +57,6 @@ colorama
 colorcet
 commonmark==0.9.1
 comtypes==1.1.10
-conda==4.14.0
-conda-build==3.21.8
-conda-content-trust 
-conda-pack
-conda-package-handling 
-conda-repo-cli
-conda-token 
-conda-verify==3.4.2
 confection==0.0.1
 constantly==15.1.0
 cookiecutter 
