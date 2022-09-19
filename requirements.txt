@@ -321,9 +321,6 @@ statsmodels==0.13.2
 stdlib-list==0.8.0
 streamlit==1.12.2
 sympy 
-TBB==0.2
-tblib 
-tenacity 
 tensorboard==2.10.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
