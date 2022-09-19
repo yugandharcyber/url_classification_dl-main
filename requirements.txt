@@ -7,10 +7,6 @@ aiosignal
 aiosqlite==0.17.0
 alabaster 
 altair==4.2.0
-anaconda-client 
-anaconda-navigator==2.1.4
-anaconda-project 
-anndata==0.8.0
 anyio
 appdirs==1.4.4
 argon2-cffi 
