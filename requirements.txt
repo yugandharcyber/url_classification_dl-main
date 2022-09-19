@@ -64,8 +64,7 @@ cookiecutter
 cryptography 
 cssselect==1.1.0
 cycler 
-cymem==2.0.6
-Cython 
+cymem==2.0.6 
 cytoolz==0.11.0
 databases==0.6.1
 datashader 
