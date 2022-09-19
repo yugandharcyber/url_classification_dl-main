@@ -1,4 +1,3 @@
-cython==0.29.32
 absl-py==1.0.0
 adjustText==0.7.3
 aggdraw==1.3.15
