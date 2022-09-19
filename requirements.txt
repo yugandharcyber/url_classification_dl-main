@@ -321,8 +321,6 @@ statsmodels==0.13.2
 stdlib-list==0.8.0
 streamlit==1.12.2
 sympy 
-tables==3.6.1
-tabulate==0.8.9
 TBB==0.2
 tblib 
 tenacity 
