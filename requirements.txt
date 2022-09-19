@@ -66,8 +66,6 @@ cycler
 cymem==2.0.6
 Cython 
 cytoolz==0.11.0
-daal4py==2021.5.0
-dask 
 databases==0.6.1
 datashader 
 datashape==0.5.4
