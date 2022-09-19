@@ -324,7 +324,7 @@ rich==12.5.1
 rope 
 rsa 
 Rtree 
-ruamel-yaml-conda @ file:///C:/ci/ruamel_yaml_1616016898638/work
+ruamel-yaml-conda 
 s3transfer 
 scanpy==1.9.1
 scikit-image 
