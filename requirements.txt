@@ -359,8 +359,6 @@ tqdm
 traitlets 
 transformers==4.22.1
 ttach==0.0.3
-Twisted 
-twisted-iocpsupport 
 typed-ast 
 typeguard==2.13.3
 typer==0.4.2
